@@ -19,6 +19,9 @@
       <Content Include="..\docker-compose.yaml">
         <Link>docker-compose.yaml</Link>
       </Content>
+      <Content Include="..\README.md">
+        <Link>README.md</Link>
+      </Content>
     </ItemGroup>
 
 </Project>
