@@ -6,6 +6,6 @@ services:
       context: .
       dockerfile: PwnedPhysics/Dockerfile
     ports:
-      - "4567:4567"
+      - "4567:80"
     restart: unless-stopped
     
